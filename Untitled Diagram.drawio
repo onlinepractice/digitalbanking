@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T05:53:40.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="fHC4Qc2yBeP7SJjAuSRl" version="21.7.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-09-01T07:04:11.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dXRgWtrK_qlUfU2B8T_G" version="21.7.1" type="github" pages="12">
   <diagram name="Agile Ways of Working" id="ADhBP0xkcyTer7fD7_P3">
     <mxGraphModel dx="1674" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2584,16 +2584,16 @@
           <mxGeometry x="100" y="1700" width="430" height="380" as="geometry" />
         </mxCell>
         <mxCell id="vVS7FRlYNaBEvb8oHKHN-16" value="Customer Support &amp;amp; Service Management" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fontFamily=Architects Daughter;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-750" y="1370" width="210" height="110" as="geometry" />
+          <mxGeometry x="-780" y="1370" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vVS7FRlYNaBEvb8oHKHN-17" value="Social Media and External Channels" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fontFamily=Architects Daughter;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-540" y="1380" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vVS7FRlYNaBEvb8oHKHN-18" value="Customer Relationship Management" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fontFamily=Architects Daughter;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="1510" width="180" height="100" as="geometry" />
+          <mxGeometry x="-780" y="1510" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vVS7FRlYNaBEvb8oHKHN-19" value="In-Person Interaction Points" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fontFamily=Architects Daughter;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-550" y="1510" width="190" height="100" as="geometry" />
+          <mxGeometry x="-540" y="1510" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vVS7FRlYNaBEvb8oHKHN-20" value="Customer Experience" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fontFamily=Architects Daughter;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-310" y="1390" width="180" height="100" as="geometry" />
@@ -2662,21 +2662,54 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7VxsP5tJj9LSH-kgl4yB" name="Page-11">
-    <mxGraphModel dx="2261" dy="-457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3088" dy="-457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oLtLbYQAdCrPhkDTOY86-1" value="Customer Support &amp;amp; Service Management" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fontFamily=Architects Daughter;align=center;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="1200" width="780" height="500" as="geometry" />
+          <mxGeometry x="-800" y="1200" width="530" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="CpvHfv1Tg-IK-SVwBzjw-1" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="1290" width="120" height="80" as="geometry" />
+        <mxCell id="CpvHfv1Tg-IK-SVwBzjw-1" value="Multi-Channel Support Optimization" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="1260" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PyYMpaqD92wd4HnNG0Rj-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="1360" width="120" height="60" as="geometry" />
+        <mxCell id="PyYMpaqD92wd4HnNG0Rj-1" value="Multi-Channel Support Optimization" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="1284" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PyYMpaqD92wd4HnNG0Rj-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="1500" width="120" height="80" as="geometry" />
+        <mxCell id="PyYMpaqD92wd4HnNG0Rj-2" value="Enhancing Call Center Services" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry y="1240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PyYMpaqD92wd4HnNG0Rj-7" value="In-Person Assistance" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="1374" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PyYMpaqD92wd4HnNG0Rj-8" value="Assisted Chat" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="1474" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PyYMpaqD92wd4HnNG0Rj-9" value="Unassisted Chatbot" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="1574" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PyYMpaqD92wd4HnNG0Rj-10" value="Online Enquiries" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="1674" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RHdSAxp0-06nh9NG4UOT-3" value="Unified Case Management" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="1354" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VrgAaG2vKzZFhLOZygW7-1" value="Service Center Modernization" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="1430" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VrgAaG2vKzZFhLOZygW7-2" value="Unified Case Management" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="1500" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VrgAaG2vKzZFhLOZygW7-5" value="Multi-Channel Support Optimization" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="1600" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VrgAaG2vKzZFhLOZygW7-6" value="Implement chatbots for real-time web support." style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="VrgAaG2vKzZFhLOZygW7-5">
+          <mxGeometry y="30" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VrgAaG2vKzZFhLOZygW7-7" value="Item 2" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="VrgAaG2vKzZFhLOZygW7-5">
+          <mxGeometry y="60" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VrgAaG2vKzZFhLOZygW7-8" value="Item 3" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=0;" vertex="1" parent="VrgAaG2vKzZFhLOZygW7-5">
+          <mxGeometry y="90" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
