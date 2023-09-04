@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T01:36:37.180Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ElwoRHR0PULwxx6FaHW-" version="21.7.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-09-04T02:08:08.944Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="yS0GFoM4TgzTxN3qTUGg" version="21.7.1" type="github" pages="15">
   <diagram name="Agile Ways of Working" id="ADhBP0xkcyTer7fD7_P3">
     <mxGraphModel dx="1674" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2558,7 +2558,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="itf4v_pqhXpOU0dN-zUs" name="Page-10">
-    <mxGraphModel dx="5111" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4284" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2654,9 +2654,6 @@
         </mxCell>
         <mxCell id="vVS7FRlYNaBEvb8oHKHN-39" value="Adaptive User Experiences" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fontFamily=Architects Daughter;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;strokeWidth=2;shadow=0;perimeterSpacing=0;size=20;" parent="1" vertex="1">
           <mxGeometry x="310" y="1940" width="190" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="ennGjkCljHN3MZvBTmWc-1" value="J" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-880" y="1310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3372,6 +3369,17 @@
         </mxCell>
         <mxCell id="oDn3oTLRHKX7wTNial5U-34" value="External Service Capabilities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="10" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tsCYtcn2-SOYJnA5pcOl" name="Page-15">
+    <mxGraphModel dx="2074" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dBAhCwjV534wztL4lHl4-1" value="Business Domain" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#ffcd28;strokeColor=#d79b00;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
