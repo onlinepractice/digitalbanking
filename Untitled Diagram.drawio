@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T13:26:54.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="BqBXnLDgDTuxCQiz8F1s" version="21.7.1" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2023-09-04T13:29:32.543Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sSNIJ5g_ingOvwT5JLQT" version="21.7.1" type="github" pages="30">
   <diagram name="Agile Ways of Working" id="ADhBP0xkcyTer7fD7_P3">
     <mxGraphModel dx="1674" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7318,6 +7318,74 @@
           <mxGeometry x="-220" y="-362.5" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="s2euwRGZvtb9cGhg6_77-30" value="Innovation Funding and Grants" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FAE5C7;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=20;fontFamily=Architects Daughter;strokeColor=#0F8B8D;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;verticalAlign=middle;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-280" width="180" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WkQ3Abyw9c5Qqt5y8aPu" name="Page-30">
+    <mxGraphModel dx="2901" dy="2294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-1" value="Solution Components" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Architects Daughter;fillColor=#FAE5C7;strokeColor=#0F8B8D;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;verticalAlign=top;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="-400" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;fontFamily=Architects Daughter;fillColor=#FAE5C7;strokeColor=#A8201A;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;verticalAlign=top;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="5n-rJt5oEPXTTsvtgV9e-3" target="5n-rJt5oEPXTTsvtgV9e-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-660" y="-322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-3" value="ABB:&amp;nbsp;Customer Profiling and Segmentation" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FAE5C7;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=20;fontFamily=Architects Daughter;strokeColor=#0F8B8D;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="-507.5" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="5n-rJt5oEPXTTsvtgV9e-6" target="5n-rJt5oEPXTTsvtgV9e-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#143642;fillColor=#FAE5C7;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5n-rJt5oEPXTTsvtgV9e-6" target="5n-rJt5oEPXTTsvtgV9e-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-6" value="ABB:&amp;nbsp;Personalized Content Delivery" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FAE5C7;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=20;fontFamily=Architects Daughter;strokeColor=#0F8B8D;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-520" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-7" value="Customer Data Enrichment" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FAE5C7;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=20;fontFamily=Architects Daughter;strokeColor=#0F8B8D;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;verticalAlign=middle;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="-350" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-8" value="Segmentation Strategies" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FAE5C7;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=20;fontFamily=Architects Daughter;strokeColor=#0F8B8D;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;verticalAlign=middle;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="-260" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="5n-rJt5oEPXTTsvtgV9e-11" target="5n-rJt5oEPXTTsvtgV9e-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-295" y="-680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;fontFamily=Architects Daughter;fillColor=#FAE5C7;strokeColor=#A8201A;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;verticalAlign=top;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="5n-rJt5oEPXTTsvtgV9e-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-680" y="-420" as="sourcePoint" />
+            <mxPoint x="-620" y="-332" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-680" y="-420" />
+              <mxPoint x="-680" y="-252" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-11" value="Personalized Interaction" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=32;align=center;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="-880" width="640" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="5n-rJt5oEPXTTsvtgV9e-11" target="5n-rJt5oEPXTTsvtgV9e-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-285" y="-680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-13" value="Solution Components" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Architects Daughter;fillColor=#FAE5C7;strokeColor=#0F8B8D;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;verticalAlign=top;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-415" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-14" value="Content Personalisation Engines" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FAE5C7;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=20;fontFamily=Architects Daughter;strokeColor=#0F8B8D;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;verticalAlign=middle;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-362.5" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5n-rJt5oEPXTTsvtgV9e-15" value="Cross-Channel Integration" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FAE5C7;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=20;fontFamily=Architects Daughter;strokeColor=#0F8B8D;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;verticalAlign=middle;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="-220" y="-280" width="180" height="75" as="geometry" />
         </mxCell>
       </root>
