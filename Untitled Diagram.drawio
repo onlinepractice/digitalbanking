@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T12:18:46.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-K_7mxSYkdJ7V3kiYjBM" version="21.7.1" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2023-09-04T12:23:39.468Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-y4V71J9x7ecaGU-qEfl" version="21.7.1" type="github" pages="25">
   <diagram name="Agile Ways of Working" id="ADhBP0xkcyTer7fD7_P3">
     <mxGraphModel dx="1674" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5855,10 +5855,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fdPDxx92P3Heqca88siE-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="fdPDxx92P3Heqca88siE-65" target="fdPDxx92P3Heqca88siE-69">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="-60" />
+              <mxPoint x="-35" y="-60" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fdPDxx92P3Heqca88siE-65" value="Service Delivery &amp;amp; Interaction Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=32;align=center;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-327" y="-260" width="460" height="100" as="geometry" />
+          <mxGeometry x="140" y="-290" width="1050" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fdPDxx92P3Heqca88siE-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=95;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="fdPDxx92P3Heqca88siE-69" target="fdPDxx92P3Heqca88siE-10">
           <mxGeometry relative="1" as="geometry" />
@@ -6152,6 +6157,10 @@
         <mxCell id="bQTXkkSdFwUn1Xagv2JY-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#143642;fillColor=#FAE5C7;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fdPDxx92P3Heqca88siE-65" target="bQTXkkSdFwUn1Xagv2JY-120">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1616.999999999999" y="-19.999999999999545" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="927" y="-50" />
+              <mxPoint x="1602" y="-50" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bQTXkkSdFwUn1Xagv2JY-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=95;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" source="bQTXkkSdFwUn1Xagv2JY-120" target="bQTXkkSdFwUn1Xagv2JY-76">
@@ -6668,14 +6677,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RbwNiB3q0EEv7rxa4Fem-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="1" target="RbwNiB3q0EEv7rxa4Fem-23">
+        <mxCell id="RbwNiB3q0EEv7rxa4Fem-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#143642;fillColor=#FAE5C7;exitX=0.944;exitY=1.055;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fdPDxx92P3Heqca88siE-65" target="RbwNiB3q0EEv7rxa4Fem-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="95" y="-160" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="95" y="-160" />
-              <mxPoint x="95" y="-100" />
+              <mxPoint x="1134" y="-184" />
+              <mxPoint x="1134" y="-100" />
               <mxPoint x="2860" y="-100" />
               <mxPoint x="2860" y="1595" />
+              <mxPoint x="1652" y="1595" />
             </Array>
           </mxGeometry>
         </mxCell>
